@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Marcelino**.<br>
 
-Saya seorang mahasiswa Teknologi Rekayasa Perangkat Lunak.<br>
+Saya seorang mahasiswa Teknologi Rekayasa Perangkat Lunak Universitas Gadjah Mada.<br>
 
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
 
