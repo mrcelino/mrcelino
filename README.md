@@ -14,9 +14,10 @@
 # 🤝🏻 Connect with Me:
 
 <p align="center" style="background-color:#1a1a2e; padding: 20px;">
-<a href="https://www.linkedin.com/in/marcelino1/"><img src="https://img.shields.io/badge/-Arpit%20Chaubay-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/marcelino1/"><img src="https://img.shields.io/badge/-Marcelino-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="marcelinokenny12@gmail.com"><img src="https://img.shields.io/badge/-marcelinokenny12@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/mrcellino_"><img src="https://img.shields.io/badge/-@mrcellino_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/mrcellino_"><img src="https://img.shields.io/badge/-@mrcellino_-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge"/></a>
+
 </p>
 
 # 🔢 Visitor count:
