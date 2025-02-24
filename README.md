@@ -19,7 +19,7 @@
 # 📈 GitHub Analytics:
 <div align="center">
   <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrcelino&theme=radical">
-  <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=somnath0904&theme=radical">
+  <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrcelino&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrcelino&theme=radical">
   <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrcelino&theme=radical">
   <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrcelino&theme=radical&utcOffset=8">
