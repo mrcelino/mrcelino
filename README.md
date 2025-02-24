@@ -3,23 +3,39 @@
 <h3 align="center">💻 I'm a Software Engineering student at Universitas Gadjah Mada 🎓</h3>
 <br>
 
-# 📈 GitHub Analytics:
 
-<p align="center" style="background-color:#1a1a2e; padding: 20px;">
-<a href="https://github.com/mrcelino">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrcelino&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrcelino&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+# 💻 Tech Stack:
+
+<div align="center">
+
+<a href="#" target="_blank">
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,redux,tailwind,laravel,python,kotlin,java,mysql,postgres,prisma,html,css,php,bootstrap,git&perline=9" />
 </a>
-</p>
+
+</div>
+
+<br>
+
+# 📈 GitHub Analytics:
+<div align="center">
+  <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrcelino&theme=radical">
+  <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=somnath0904&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrcelino&theme=radical">
+  <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrcelino&theme=radical">
+  <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrcelino&theme=radical&utcOffset=8">
+
+</div>
+
 
 # 🤝🏻 Connect with Me:
 
-<p align="center" style="background-color:#1a1a2e; padding: 20px;">
-<a href="https://www.linkedin.com/in/marcelino1/"><img src="https://img.shields.io/badge/-Marcelino-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:marcelinokenny12@gmail.com"><img src="https://img.shields.io/badge/-marcelinokenny12@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/mrcellino_"><img src="https://img.shields.io/badge/-@mrcellino_-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge"/></a>
+<div align="center">
 
-</p>
+<a href="https://instagram.com/mrcellino_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/marcelino1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:marcelino@mail.ugm.ac.id" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
 
 # 🔢 Visitor count:
 <p>
