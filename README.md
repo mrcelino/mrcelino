@@ -18,16 +18,17 @@
 
 # 📈 GitHub Analytics:
 <div align="center">
-    <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=mrcelino&theme=radical&hide_border=true&short_numbers=true"/>
-    </a>
-  </p>
+
   <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrcelino&theme=radical">
   <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrcelino&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrcelino&theme=radical">
   <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrcelino&theme=radical">
   <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrcelino&theme=radical&utcOffset=8">
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=mrcelino&theme=radical&hide_border=true&short_numbers=true"/>
+    </a>
+  </p>
 
 
 </div>
